@@ -8,11 +8,11 @@ This project involves a detailed analysis of Netflix's movies and TV shows using
 
 # Objective
 
--Implemented Data Analysis for Netflix data processing using SQL for efficient query execution.
--Analyzed the distribution of content types (movies vs TV shows).
--Identify most common ratings for movies and TV Shows.
--List and analyze content based on release years, countries and durations.
--Explore and categorize content based on specific criteria and keywords.
+- Implemented Data Analysis for Netflix data processing using SQL for efficient query execution.
+- Analyzed the distribution of content types (movies vs TV shows).
+- Identify most common ratings for movies and TV Shows.
+- List and analyze content based on release years, countries and durations.
+- Explore and categorize content based on specific criteria and keywords.
 
 **Dataset
 The data set for this project is sourced from kaggle dataset.
